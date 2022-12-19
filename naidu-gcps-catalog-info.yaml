@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "naidu"
+  description: "demo build"
+  annotations:
+    github.com/project-slug: naidulakshmi/kms-tf-test
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "naidu"
