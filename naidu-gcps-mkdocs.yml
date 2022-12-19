@@ -1,0 +1,9 @@
+
+site_name: "naidu"
+site_description: "demo build"
+
+nav:
+  - Introduction: backstage-index.md
+
+plugins:
+  - techdocs-core
